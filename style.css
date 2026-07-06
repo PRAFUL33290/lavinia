@@ -282,6 +282,8 @@ header {
 .pricing-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
+    grid-template-rows: repeat(5, auto);
+    grid-auto-flow: column;
     gap: 15px;
     margin-top: 40px;
     margin-bottom: 25px;
@@ -468,6 +470,8 @@ footer {
     }
     .pricing-grid {
         grid-template-columns: 1fr;
+        grid-template-rows: auto;
+        grid-auto-flow: row;
     }
     .nav-links {
         position: fixed;
