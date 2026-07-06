@@ -75,7 +75,7 @@ Selon votre niveau et votre projet, nous pouvons aborder :
 
 * Un ordinateur (Windows ou Mac)
 * Une connexion Internet stable
-* Un micro (caméra recommandée)
+* Un microphone (caméra recommandée)
 * Une solution de visioconférence (Google Meet, Zoom ou Discord)
 
 ## Paiement
